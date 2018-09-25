@@ -63,7 +63,7 @@ namespace GameRoket
         }
         void TickTimer1(object obj)
         {
-            Rockets1();
+            Rockets1();       //TODO Task
         }
         void TickTimer2(object obj)
         {
